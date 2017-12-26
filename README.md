@@ -1,5 +1,5 @@
 # LogicTreeGame
-## Jeu de logique booléenne développé pour un projet de logique en Licence 3
+## Petit "jeu" de logique booléenne développé pour un projet de logique en Licence 3
 
 Petit jeu simple qui présente des formules logiques au joueur du type 
 NOT (P => ((P => Q) => Q))
